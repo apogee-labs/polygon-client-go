@@ -1,7 +1,5 @@
 # Polygon Go Client
 
-[![Build][build-img]][build]
-
 Originally a fork of the official Go client library for the [Polygon](https://polygon.io/) REST and WebSocket API.
 This fork **may** be divergent enough from the original client library to be considered incompatible so use at your own
 risk.
