@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/apogee-labs/polygon-client-go/websocket/models"
 	"github.com/gorilla/websocket"
-	"github.com/ericmaustin/polygon-client-go/websocket/models"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"testing"
 
+	polygon "github.com/apogee-labs/polygon-client-go/rest"
+	"github.com/apogee-labs/polygon-client-go/rest/models"
 	"github.com/jarcoal/httpmock"
-	polygon "github.com/ericmaustin/polygon-client-go/rest"
-	"github.com/ericmaustin/polygon-client-go/rest/models"
 	"github.com/stretchr/testify/assert"
 )
 

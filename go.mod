@@ -1,4 +1,4 @@
-module github.com/ericmaustin/polygon-client-go
+module github.com/apogee-labs/polygon-client-go
 
 go 1.18
 

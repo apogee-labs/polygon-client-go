@@ -15,7 +15,7 @@ import (
 	"golang.org/x/exp/slices"
 	"gopkg.in/tomb.v2"
 
-	"github.com/ericmaustin/polygon-client-go/websocket/models"
+	"github.com/apogee-labs/polygon-client-go/websocket/models"
 )
 
 const (

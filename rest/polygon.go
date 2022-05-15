@@ -2,7 +2,7 @@
 package polygon
 
 import (
-	"github.com/ericmaustin/polygon-client-go/rest/client"
+	"github.com/apogee-labs/polygon-client-go/rest/client"
 )
 
 // Client defines a client to the Polygon REST API.

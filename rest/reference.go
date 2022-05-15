@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/ericmaustin/polygon-client-go/rest/client"
-	"github.com/ericmaustin/polygon-client-go/rest/iter"
-	"github.com/ericmaustin/polygon-client-go/rest/models"
+	"github.com/apogee-labs/polygon-client-go/rest/client"
+	"github.com/apogee-labs/polygon-client-go/rest/iter"
+	"github.com/apogee-labs/polygon-client-go/rest/models"
 )
 
 const (

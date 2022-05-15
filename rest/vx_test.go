@@ -8,8 +8,8 @@ import (
 	"github.com/jarcoal/httpmock"
 	"github.com/stretchr/testify/assert"
 
-	polygon "github.com/ericmaustin/polygon-client-go/rest"
-	"github.com/ericmaustin/polygon-client-go/rest/models"
+	polygon "github.com/apogee-labs/polygon-client-go/rest"
+	"github.com/apogee-labs/polygon-client-go/rest/models"
 )
 
 func TestListStockFinancials(t *testing.T) {
